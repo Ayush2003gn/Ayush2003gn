@@ -13,4 +13,6 @@ Currently building small projects to strengthen fundamentals.
 Goal: Become technically strong through consistent execution.
 
 ---
+<p align="center">
     "Be better than yesterday."
+</p>
