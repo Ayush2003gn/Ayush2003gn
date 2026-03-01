@@ -1,6 +1,6 @@
 # Hi, I'm Ayush 👋
 
-<b>Student<\b> | Systems Thinker | Builder
+<b>Student</b> | <b>Systems Thinker</b> | <b>Builder</b>
 
 I’m focused on mastering:
 - Python & Core Programming
